@@ -1,0 +1,127 @@
+[33mcommit 098e7f1fa1d79c60dc419c20fa6547e82ac663d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kamila <kamilaz@gmail.com>
+Date:   Sat Feb 19 12:17:26 2022 +0100
+
+    Revert "Revert "Add three files""
+    
+    This reverts commit d4cc9d66a7b7f6b32874e7fca48119a57f7afe81.
+
+[1mdiff --git a/plik1.txt b/plik1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..218b7db[m
+[1m--- /dev/null[m
+[1m+++ b/plik1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrr[m
+\ No newline at end of file[m
+[1mdiff --git a/plik2.txt b/plik2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5ad6f34[m
+[1m--- /dev/null[m
+[1m+++ b/plik2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mdddddddddd[m
+\ No newline at end of file[m
+[1mdiff --git a/plik3.txt b/plik3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ef640ed[m
+[1m--- /dev/null[m
+[1m+++ b/plik3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meeeeeeeerrrr22222[m
+\ No newline at end of file[m
+
+[33mcommit d4cc9d66a7b7f6b32874e7fca48119a57f7afe81[m
+Author: kamila <kamilaz@gmail.com>
+Date:   Sat Feb 19 12:12:45 2022 +0100
+
+    Revert "Add three files"
+    
+    This reverts commit df9f028a6f93bbdee22cbc0f5f8333513f86d51b.
+
+[1mdiff --git a/plik1.txt b/plik1.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 218b7db..0000000[m
+[1m--- a/plik1.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-eeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrr[m
+\ No newline at end of file[m
+[1mdiff --git a/plik2.txt b/plik2.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 5ad6f34..0000000[m
+[1m--- a/plik2.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-dddddddddd[m
+\ No newline at end of file[m
+[1mdiff --git a/plik3.txt b/plik3.txt[m
+[1mdeleted file mode 100644[m
+[1mindex ef640ed..0000000[m
+[1m--- a/plik3.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-eeeeeeeerrrr22222[m
+\ No newline at end of file[m
+
+[33mcommit c69360e6af910601f4f9d405779d9ea1e5358449[m
+Author: kamila <kamilaz@gmail.com>
+Date:   Sat Feb 19 11:48:19 2022 +0100
+
+    modyfikacja pliku
+
+[1mdiff --git a/plik4.txt b/plik4.txt[m
+[1mindex 6132a64..af15d42 100644[m
+[1m--- a/plik4.txt[m
+[1m+++ b/plik4.txt[m
+[36m@@ -1 +1 @@[m
+[31m-eee[m
+\ No newline at end of file[m
+[32m+[m[32meee3333[m
+\ No newline at end of file[m
+
+[33mcommit 9e2743b8652088647a62814a353a8359684c5044[m
+Author: kamila <kamilaz@gmail.com>
+Date:   Thu Feb 17 18:40:19 2022 +0100
+
+    add file
+
+[1mdiff --git a/plik4.txt b/plik4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6132a64[m
+[1m--- /dev/null[m
+[1m+++ b/plik4.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meee[m
+\ No newline at end of file[m
+
+[33mcommit df9f028a6f93bbdee22cbc0f5f8333513f86d51b[m
+Author: kamila <kamilaz@gmail.com>
+Date:   Thu Feb 17 18:35:20 2022 +0100
+
+    Add three files
+
+[1mdiff --git a/plik1.txt b/plik1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..218b7db[m
+[1m--- /dev/null[m
+[1m+++ b/plik1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meeeeeeeerrrrrrrrrrrrrrrrrrrrrrrrrrr[m
+\ No newline at end of file[m
+[1mdiff --git a/plik2.txt b/plik2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5ad6f34[m
+[1m--- /dev/null[m
+[1m+++ b/plik2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mdddddddddd[m
+\ No newline at end of file[m
+[1mdiff --git a/plik3.txt b/plik3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ef640ed[m
+[1m--- /dev/null[m
+[1m+++ b/plik3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meeeeeeeerrrr22222[m
+\ No newline at end of file[m
